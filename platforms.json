@@ -1,0 +1,51 @@
+{
+    "rings": {
+        "name": "Rings",
+        "rarity": "Legendary",
+        "price": "3500",
+        "description": "This is overpriced, but hey, you can't complain.",
+        "devid": ""
+    },
+    "core": {
+        "name": "Core",
+        "rarity": "Legendary",
+        "price": "3500",
+        "description": "A platform INSIDE a platform. I know, right?",
+        "devid": ""
+    },
+    "ring": {
+        "name": "Ring",
+        "rarity": "Epic",
+        "price": "2500",
+        "description": "Look at the sleek design.",     
+        "devid": ""
+    },
+    "glass": {
+        "name": "Glass",
+        "rarity": "Epic",
+        "price": "2500",
+        "description": "Try not to look down.",
+        "devid": ""
+    },
+    "chrome": {
+        "name": "Chromatic",
+        "rarity": "Rare",
+        "price": "1000",
+        "description": "Try to keep yourself on the right side of crazy.",
+        "devid": ""
+    },
+    "blue": {
+        "name": "Blue",
+        "rarity": "Common",
+        "price": "500",
+        "description": "It's blue. I don't know what else I'm supposed to say.",
+        "devid": ""
+    },
+    "red": {
+        "name": "Red",
+        "rarity": "Common",
+        "price": "500",
+        "description": "Red! uhm... like.. red. I'm running out.",
+        "devid": ""
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "exo": {
+        "name": "Exoskeleton",
+        "rarity": "Legendary",
+        "price": "3500",
+        "description": "It looks rather skinny, doesn't it?",
+        "devid": ""
+    },
+    "core": {
+        "name": "Core",
+        "rarity": "Legendary",
+        "price": "3500",
+        "description": "A circle inside a cube. What a revolutionary idea.",
+        "devid": ""
+    },
+    "multi": {
+        "name": "Multiversal",
+        "rarity": "Epic",
+        "price": "2500",
+        "description": "I'm having a headache just looking at it...",
+        "devid": ""
+    },
+    "rings": {
+        "name": "Rings",
+        "rarity": "Epic",
+        "price": "2500",
+        "description": "Like onion rings, you know?",
+        "devid": ""
+    },
+    "chrome": {
+        "name": "Chromatic",
+        "rarity": "Rare",
+        "price": "1000",
+        "description": "Slow down on the chrome, choom.",
+        "devid": ""
+    },
+    "blue": {
+        "name": "Blue",
+        "rarity": "Common",
+        "price": "500",
+        "description": "It's blue. I don't know what else I'm supposed to say.",
+        "devid": ""
+    },
+    "red": {
+        "name": "Red",
+        "rarity": "Common",
+        "price": "500",
+        "description": "Red! uhm... like.. red. I'm running out.",
+        "devid": ""
+    }
+}
