@@ -7,8 +7,8 @@ const express = require("express");
 const app = express();
 // Shops content
 var shop = {
-	nextStock: Math.floor(Date.now() / 1000) + 30,
-	cycle: 3600,
+	nextStock: Math.floor(Date.now() / 1000) + 20,
+	cycle: 10,
 	stockAmount: {
 		Legendary: 1,
 		Epic: 1,
